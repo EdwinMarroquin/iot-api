@@ -1,0 +1,23 @@
+{
+  "name": "iot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinMarroquin/iot-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinMarroquin/iot-api/issues"
+  },
+  "homepage": "https://github.com/EdwinMarroquin/iot-api#readme",
+  "dependencies": {
+    "fake-json-api-server": "^1.7.0"
+  }
+}
